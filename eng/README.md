@@ -7,7 +7,7 @@ This section contains my main projects with descriptions, outcomes, and links to
 
 | Project                      | Brief Description                                                  | Links                                |
 |-----------------------------|---------------------------------------------------------------------|--------------------------------------|
-| **Multithreaded Data Downloading** | Development of Python functionality for fast and efficient data export from OpenSearch. | [`code`](/common/concurrent_data_downloader.py) / [`results`](./1.%20Multithreaded%20Data%20Downloading.md) |
+| **Multithreaded Data Downloading** | Development of Python functionality for fast and efficient data export from OpenSearch. | [`code`](/common/concurrent_data_downloader.py) / [`description`](./1.%20Multithreaded%20Data%20Downloading.md) |
 
 ---
 
