@@ -4,14 +4,15 @@
 
 # 🇬🇧 English Version
 
-## 📖 About the Project
+## 📖 About the Repository
 
 Welcome to my **anonymous Git portfolio** — a collection of projects and developments that showcase my professional skills while respecting confidentiality.  
 - All functions are complete analogs of my real-world research and work.  
 - All results are exclusively my own original creations based on anonymized data.  
 - No NDAs or confidentiality agreements have been violated.
+- This portfolio is a living collection and will be regularly updated with new projects and improvements over time.
 
-## 🗂️ Project Structure
+## 🗂️ Repository Structure
 
 - `common` — shared utilities, resources, and datasets  
 - `eng` — English-language materials and projects  
@@ -34,14 +35,15 @@ I look forward to potential opportunities to collaborate.
 
 # 🇷🇺 Русская версия
 
-## 📖 О проекте
+## 📖 О Репозитории
 
 Добро пожаловать в моё **обезличенное Git-портфолио** — сборник проектов и наработок, демонстрирующих мои профессиональные навыки с соблюдением конфиденциальности.  
 - Все функции являются полными аналогами моих реальных рабочих изысканий.  
 - Все результаты — исключительно мои авторские разработки на основе обезличенных данных.  
 - Нет нарушения NDA или соглашений о конфиденциальности.
+- Это портфолио является живым и будет регулярно пополняться новыми проектами и доработками с течением времени.
 
-## 🗂️ Структура проекта
+## 🗂️ Структура репозитория
 
 - `common` — общие утилиты, ресурсы и наборы данных  
 - `eng` — материалы и проекты на английском языке  
