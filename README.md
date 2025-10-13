@@ -133,35 +133,12 @@ All work presented here:
 
 ---
 
-### Project Highlights
-
-**Multithreaded Data Downloader** (Professional — Gear Games) stands out as the flagship project, demonstrating:
-
-- **Scalability**: Analytics team extracted 9.1+ billion rows in a single month
-- **Performance**: 30x speed improvement through intelligent parallelization
-- **Efficiency**: 55% memory reduction via type optimization and chunked processing
-- **Production-Ready**: Integrated logging, error handling, container support
-- **Active Usage**: Daily operations by analytics team and automated scripts
-
-<details>
-<summary><strong>Performance Metrics</strong></summary>
-
-```
-Sequential Processing:   1,639 hours (68 days)
-Parallel Processing:     54 hours (2.27 days)
-Speedup:                 30x improvement
-
-Memory Before Optimization:  9,003 MB peak / 5,779 MB DataFrame
-Memory After Optimization:   4,028 MB peak / 3,975 MB DataFrame
-Reduction:                   55% memory savings
-```
-</details>
-
----
-
 ### Contact
 
-Interested in collaboration or have questions? Feel free to reach out via private message to discuss opportunities.
+Interested in collaboration or have questions? Feel free to reach out:
+
+**Telegram:** [@ahruslan01](https://t.me/ahruslan01)  
+**Email:** [ahruslan17@gmail.com](mailto:ahruslan17@gmail.com)
 
 ---
 
@@ -284,35 +261,12 @@ Interested in collaboration or have questions? Feel free to reach out via privat
 
 ---
 
-### Основные достижения
-
-Проект **Многопоточная выгрузка данных** (Профессиональный — Gear Games) является флагманским, демонстрируя:
-
-- **Масштабируемость**: Команда аналитики выгрузила 9,1+ млрд строк за один месяц
-- **Производительность**: Ускорение в 30 раз за счёт интеллектуальной параллелизации
-- **Эффективность**: Снижение потребления памяти на 55% через оптимизацию типов и чанковую обработку
-- **Production-Ready**: Интегрированное логирование, обработка ошибок, поддержка контейнеров
-- **Активное использование**: Ежедневная работа команды аналитиков и автоматизированных скриптов
-
-<details>
-<summary><strong>Метрики производительности</strong></summary>
-
-```
-Последовательная обработка:  1 639 часов (68 дней)
-Параллельная обработка:      54 часа (2,27 дня)
-Ускорение:                   в 30 раз
-
-Память до оптимизации:       9 003 МБ пик / 5 779 МБ DataFrame
-Память после оптимизации:    4 028 МБ пик / 3 975 МБ DataFrame
-Снижение:                    экономия памяти 55%
-```
-</details>
-
----
-
 ### Контакты
 
-Заинтересованы в сотрудничестве или есть вопросы? Свяжитесь со мной через личные сообщения для обсуждения возможностей.
+Заинтересованы в сотрудничестве или есть вопросы? Свяжитесь со мной:
+
+**Telegram:** [@ahruslan01](https://t.me/ahruslan01)  
+**Email:** [ahruslan17@gmail.com](mailto:ahruslan17@gmail.com)
 
 ---
 
