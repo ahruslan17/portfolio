@@ -2,8 +2,9 @@
 Concurrent Data Downloader for OpenSearch/Elasticsearch
 ========================================================
 
-A production-grade ETL tool for high-performance data extraction from OpenSearch/Elasticsearch
-clusters with intelligent query sharding, parallel processing, and memory optimization.
+A production-grade ETL tool developed for Gear Games analytics department for high-performance
+data extraction from OpenSearch/Elasticsearch clusters with intelligent query sharding,
+parallel processing, and memory optimization.
 
 Key Features:
     - Automatic query generation over time intervals
@@ -16,7 +17,8 @@ Key Features:
 Performance:
     - 30x speedup vs sequential extraction
     - 55% memory reduction through optimization
-    - Successfully processed 9.1+ billion rows in production
+    - Analytics team extracted 9.1+ billion rows in 1 month
+    - Actively used by analytics department and automated scripts at Gear Games
 
 Author: Data Engineering Team
 License: Proprietary (Anonymized for portfolio purposes)

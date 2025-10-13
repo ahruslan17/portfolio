@@ -57,14 +57,14 @@ All work presented here:
 </thead>
 <tbody>
   <tr>
-    <td><strong>Multithreaded Data Downloader</strong></td>
+    <td><strong>Multithreaded Data Downloader</strong><br><em>(Professional — Gear Games)</em></td>
     <td>
-      High-performance ETL tool for extracting large datasets from OpenSearch/Elasticsearch with intelligent query sharding, parallel processing, memory optimization, and progress monitoring.
+      High-performance ETL tool developed for Gear Games analytics department. Extracts large datasets from OpenSearch/Elasticsearch with intelligent query sharding, parallel processing, memory optimization, and progress monitoring. Actively used by analytics team and automated scripts.
       <br><br>
       <strong>Key achievements:</strong>
       <ul>
         <li>Reduced extraction time by <strong>30x</strong> (68 days → 2.27 days)</li>
-        <li>Processed <strong>9.1+ billion</strong> rows for analytics</li>
+        <li><strong>9.1+ billion rows</strong> extracted by analytics team in 1 month</li>
         <li>Cut memory usage by <strong>55%</strong> through optimization</li>
       </ul>
       <strong>Tech:</strong> Python, ThreadPoolExecutor, Pandas, Memory Profiling, Caching
@@ -76,7 +76,7 @@ All work presented here:
     </td>
   </tr>
   <tr>
-    <td><strong>BetBoom Odds Parser</strong></td>
+    <td><strong>BetBoom Odds Parser</strong><br><em>(Pet Project)</em></td>
     <td>
       Automated scraper for real-time basketball betting odds from betboom.ru. Features dynamic odds tracking, scheduled data collection, and Docker containerization.
       <br><br>
@@ -87,7 +87,7 @@ All work presented here:
     </td>
   </tr>
   <tr>
-    <td><strong>Russian Wordle Assistant</strong></td>
+    <td><strong>Russian Wordle Assistant</strong><br><em>(Pet Project)</em></td>
     <td>
       Interactive Streamlit application helping users solve the Russian Wordle game by tracking guesses, applying constraints, and filtering possible solutions.
       <br><br>
@@ -98,7 +98,7 @@ All work presented here:
     </td>
   </tr>
   <tr>
-    <td><strong>CV Parking Monitoring</strong></td>
+    <td><strong>CV Parking Monitoring</strong><br><em>(Pet Project)</em></td>
     <td>
       End-to-end computer vision system for parking lot analytics. Features interactive zone labeling, YOLO-based vehicle detection, real-time availability calculation, and Telegram bot integration for on-demand monitoring.
       <br><br>
@@ -115,12 +115,13 @@ All work presented here:
 
 ### Project Highlights
 
-**Multithreaded Data Downloader** stands out as the flagship project, demonstrating:
+**Multithreaded Data Downloader** (Professional — Gear Games) stands out as the flagship project, demonstrating:
 
-- **Scalability**: Handled 9.1 billion rows of production data
+- **Scalability**: Analytics team extracted 9.1+ billion rows in a single month
 - **Performance**: 30x speed improvement through intelligent parallelization
 - **Efficiency**: 55% memory reduction via type optimization and chunked processing
 - **Production-Ready**: Integrated logging, error handling, container support
+- **Active Usage**: Daily operations by analytics team and automated scripts
 
 <details>
 <summary><strong>Performance Metrics</strong></summary>
@@ -188,14 +189,14 @@ Interested in collaboration or have questions? Feel free to reach out via privat
 </thead>
 <tbody>
   <tr>
-    <td><strong>Многопоточная выгрузка данных</strong></td>
+    <td><strong>Многопоточная выгрузка данных</strong><br><em>(Профессиональный — Gear Games)</em></td>
     <td>
-      Высокопроизводительный ETL-инструмент для извлечения больших объёмов данных из OpenSearch/Elasticsearch с интеллектуальным шардированием запросов, параллельной обработкой, оптимизацией памяти и мониторингом прогресса.
+      Высокопроизводительный ETL-инструмент, разработанный для отдела аналитики Gear Games. Извлекает большие объёмы данных из OpenSearch/Elasticsearch с интеллектуальным шардированием запросов, параллельной обработкой, оптимизацией памяти и мониторингом прогресса. Активно используется командой аналитиков и автоматизированными скриптами.
       <br><br>
       <strong>Ключевые достижения:</strong>
       <ul>
         <li>Сокращение времени выгрузки в <strong>30 раз</strong> (68 дней → 2,27 дня)</li>
-        <li>Обработано более <strong>9,1 млрд</strong> строк для аналитики</li>
+        <li><strong>9,1+ млрд строк</strong> выгружено командой аналитики за 1 месяц</li>
         <li>Снижение потребления памяти на <strong>55%</strong> через оптимизацию</li>
       </ul>
       <strong>Технологии:</strong> Python, ThreadPoolExecutor, Pandas, Memory Profiling, Кэширование
@@ -207,7 +208,7 @@ Interested in collaboration or have questions? Feel free to reach out via privat
     </td>
   </tr>
   <tr>
-    <td><strong>Парсер коэффициентов BetBoom</strong></td>
+    <td><strong>Парсер коэффициентов BetBoom</strong><br><em>(Pet-проект)</em></td>
     <td>
       Автоматизированный сбор коэффициентов ставок на баскетбол в реальном времени с сайта betboom.ru. Динамическое отслеживание коэффициентов, запланированный сбор данных, Docker-контейнеризация.
       <br><br>
@@ -218,7 +219,7 @@ Interested in collaboration or have questions? Feel free to reach out via privat
     </td>
   </tr>
   <tr>
-    <td><strong>Ассистент для игры 5 букв</strong></td>
+    <td><strong>Ассистент для игры 5 букв</strong><br><em>(Pet-проект)</em></td>
     <td>
       Интерактивное Streamlit-приложение для решения русской версии игры Wordle путём отслеживания попыток, применения ограничений и фильтрации возможных решений.
       <br><br>
@@ -229,7 +230,7 @@ Interested in collaboration or have questions? Feel free to reach out via privat
     </td>
   </tr>
   <tr>
-    <td><strong>Мониторинг парковки (CV)</strong></td>
+    <td><strong>Мониторинг парковки (CV)</strong><br><em>(Pet-проект)</em></td>
     <td>
       Полнофункциональная система компьютерного зрения для аналитики парковки. Интерактивная разметка зон, детекция автомобилей на основе YOLO, расчёт доступности в реальном времени и интеграция с Telegram-ботом для мониторинга по запросу.
       <br><br>
@@ -246,12 +247,13 @@ Interested in collaboration or have questions? Feel free to reach out via privat
 
 ### Основные достижения
 
-Проект **Многопоточная выгрузка данных** является флагманским, демонстрируя:
+Проект **Многопоточная выгрузка данных** (Профессиональный — Gear Games) является флагманским, демонстрируя:
 
-- **Масштабируемость**: Обработка 9,1 млрд строк продакшн-данных
+- **Масштабируемость**: Команда аналитики выгрузила 9,1+ млрд строк за один месяц
 - **Производительность**: Ускорение в 30 раз за счёт интеллектуальной параллелизации
 - **Эффективность**: Снижение потребления памяти на 55% через оптимизацию типов и чанковую обработку
 - **Production-Ready**: Интегрированное логирование, обработка ошибок, поддержка контейнеров
+- **Активное использование**: Ежедневная работа команды аналитиков и автоматизированных скриптов
 
 <details>
 <summary><strong>Метрики производительности</strong></summary>
