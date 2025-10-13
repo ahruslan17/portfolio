@@ -1,4 +1,4 @@
-# Data Engineer & Software Developer Portfolio
+# Analytics & Data Engineering Portfolio
 
 <div align="center">
 
