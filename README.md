@@ -3,6 +3,7 @@
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
@@ -35,7 +36,7 @@ All work presented here:
 `ETL Pipelines` · `OpenSearch/Elasticsearch` · `Multithreading` · `Data Optimization` · `Big Data Processing`
 
 **Web Development & Scraping:**  
-`Playwright` · `Asyncio` · `Streamlit` · `RESTful APIs`
+`FastAPI` · `Playwright` · `Asyncio` · `Streamlit` · `RESTful APIs`
 
 **Computer Vision:**  
 `OpenCV` · `YOLO (Ultralytics)` · `Shapely` · `Real-time Detection`
@@ -73,6 +74,25 @@ All work presented here:
       <a href="/common/concurrent_data_downloader.py">Code</a>
       <br>
       <a href="/eng/1.%20Multithreaded%20Data%20Downloading.md">Details</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GG-Bet Tournament Platform</strong><br><em>(Professional — Gear Games)</em></td>
+    <td>
+      Enterprise-grade internal betting platform developed for Gear Games annual company tournament. Features real-time betting engine, comprehensive event management, dynamic odds calculation, role-based access control, and analytics dashboard. Used by employees for entertainment during competitive gaming events.
+      <br><br>
+      <strong>Tournament achievements:</strong>
+      <ul>
+        <li><strong>68 participants</strong> with <strong>99% engagement rate</strong> (67 active users)</li>
+        <li><strong>1,100 bets</strong> processed in 48 hours across 49 tournament events</li>
+        <li><strong>1,865 financial transactions</strong> with zero integrity errors (ACID compliance)</li>
+        <li><strong>11.6M+ credits</strong> in total betting volume handled</li>
+        <li>Average <strong>16 bets per user</strong> demonstrating strong platform adoption</li>
+      </ul>
+      <strong>Tech:</strong> Python, FastAPI, SQLModel, SQLite, Bcrypt, HTML/CSS, Jinja2
+    </td>
+    <td>
+      <a href="https://github.com/ahruslan17/gg-bet">Repository</a>
     </td>
   </tr>
   <tr>
@@ -167,7 +187,7 @@ Interested in collaboration or have questions? Feel free to reach out via privat
 `ETL Пайплайны` · `OpenSearch/Elasticsearch` · `Многопоточность` · `Оптимизация данных` · `Big Data`
 
 **Веб-разработка и парсинг:**  
-`Playwright` · `Asyncio` · `Streamlit` · `RESTful APIs`
+`FastAPI` · `Playwright` · `Asyncio` · `Streamlit` · `RESTful APIs`
 
 **Компьютерное зрение:**  
 `OpenCV` · `YOLO (Ultralytics)` · `Shapely` · `Детекция в реальном времени`
@@ -205,6 +225,25 @@ Interested in collaboration or have questions? Feel free to reach out via privat
       <a href="/common/concurrent_data_downloader.py">Код</a>
       <br>
       <a href="/ru/1.%20Многопоточная%20выгрузка%20данных.md">Детали</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GG-Bet Tournament Platform</strong><br><em>(Профессиональный — Gear Games)</em></td>
+    <td>
+      Корпоративная платформа для внутреннего беттинга, разработанная для ежегодного турнира компании Gear Games. Включает движок ставок в реальном времени, комплексную систему управления событиями, динамический расчёт коэффициентов, ролевое управление доступом и аналитическую панель. Используется сотрудниками для развлечения во время игровых соревнований.
+      <br><br>
+      <strong>Достижения турнира:</strong>
+      <ul>
+        <li><strong>68 участников</strong> с <strong>99% вовлечённостью</strong> (67 активных пользователей)</li>
+        <li><strong>1 100 ставок</strong> обработано за 48 часов в рамках 49 турнирных событий</li>
+        <li><strong>1 865 финансовых транзакций</strong> без ошибок целостности (ACID-совместимость)</li>
+        <li><strong>11,6 млн+ кредитов</strong> обработано в общем объёме ставок</li>
+        <li>Среднее <strong>16 ставок на пользователя</strong> — высокий уровень принятия платформы</li>
+      </ul>
+      <strong>Технологии:</strong> Python, FastAPI, SQLModel, SQLite, Bcrypt, HTML/CSS, Jinja2
+    </td>
+    <td>
+      <a href="https://github.com/ahruslan17/gg-bet">Репозиторий</a>
     </td>
   </tr>
   <tr>
