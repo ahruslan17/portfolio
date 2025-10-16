@@ -30,10 +30,10 @@ All work presented here:
 ### Core Competencies
 
 **Programming & Tools:**  
-`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter Notebook`
+`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter Notebook`
 
-**Data Engineering:**  
-`ETL Pipelines` · `OpenSearch/Elasticsearch` · `Multithreading` · `Data Optimization` · `Big Data Processing`
+**Data Engineering & Analytics:**  
+`ETL Pipelines` · `OpenSearch/Elasticsearch` · `Multithreading` · `Data Optimization` · `Big Data Processing` · `Statistical Analysis` · `A/B Testing` · `SciPy`
 
 **Web Development & Scraping:**  
 `FastAPI` · `Playwright` · `Asyncio` · `Streamlit` · `RESTful APIs`
@@ -74,6 +74,28 @@ All work presented here:
       <a href="/common/concurrent_data_downloader.py">Code</a>
       <br>
       <a href="/eng/1.%20Multithreaded%20Data%20Downloading.md">Details</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Vulkan FPS Impact Analysis</strong><br><em>(Professional Analytical Research — Gear Games)</em></td>
+    <td>
+      Production-grade statistical analysis framework for evaluating Vulkan API implementation impact on player FPS performance across mobile devices. Developed for Gear Games to guide platform-specific graphics API deployment decisions, ensuring optimal player experience. <em>Repository includes synthetic data example maintaining analytical methodology.</em>
+      <br><br>
+      <strong>Key achievements:</strong>
+      <ul>
+        <li>Analyzed <strong>1,298 players</strong> with paired before/after testing methodology</li>
+        <li>Identified <strong>31 device models</strong> with statistically stable FPS improvement (>70% improvement rate)</li>
+        <li>Identified <strong>37 device models</strong> with FPS degradation requiring Vulkan rollback (<30% improvement rate)</li>
+        <li>Classified <strong>10 GPU families</strong> for Vulkan enablement and <strong>12 for exclusion</strong></li>
+        <li>Applied <strong>rigorous statistical methodology</strong> with paired t-tests and significance testing to validate findings</li>
+        <li>Delivered <strong>comprehensive analytical visualizations</strong>: distribution plots, box plots, scatter matrices, and segment-specific performance charts</li>
+      </ul>
+      <strong>Tech:</strong> Python, Pandas, NumPy, SciPy (t-tests), Matplotlib, Seaborn, Statistical Analysis
+    </td>
+    <td>
+      <a href="/common/vulkan_fps_analysis/">Code</a>
+      <br>
+      <a href="/eng/2.%20Vulkan%20FPS%20Impact%20Analysis.md">Details</a>
     </td>
   </tr>
   <tr>
@@ -158,10 +180,10 @@ Interested in collaboration or have questions? Feel free to reach out:
 ### Ключевые компетенции
 
 **Программирование и инструменты:**  
-`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter Notebook`
+`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter Notebook`
 
-**Инженерия данных:**  
-`ETL Пайплайны` · `OpenSearch/Elasticsearch` · `Многопоточность` · `Оптимизация данных` · `Big Data`
+**Инженерия данных и аналитика:**  
+`ETL Пайплайны` · `OpenSearch/Elasticsearch` · `Многопоточность` · `Оптимизация данных` · `Big Data` · `Статистический анализ` · `A/B тестирование` · `SciPy`
 
 **Веб-разработка и парсинг:**  
 `FastAPI` · `Playwright` · `Asyncio` · `Streamlit` · `RESTful APIs`
@@ -202,6 +224,28 @@ Interested in collaboration or have questions? Feel free to reach out:
       <a href="/common/concurrent_data_downloader.py">Код</a>
       <br>
       <a href="/ru/1.%20Многопоточная%20выгрузка%20данных.md">Детали</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Анализ влияния Vulkan на FPS</strong><br><em>(Профессиональное аналитическое исследование — Gear Games)</em></td>
+    <td>
+      Production-ready фреймворк для статистического анализа влияния внедрения Vulkan API на производительность FPS игроков на мобильных устройствах. Разработан для Gear Games для принятия решений о платформо-специфичном развёртывании графического API, обеспечивая оптимальный игровой опыт. <em>В репозитории представлен пример на синтетических данных с сохранением методологии анализа.</em>
+      <br><br>
+      <strong>Ключевые достижения:</strong>
+      <ul>
+        <li>Проанализировано <strong>1 298 игроков</strong> с методологией парного сравнения до/после</li>
+        <li>Выявлено <strong>31 модель устройств</strong> со стабильным улучшением FPS (>70% improvement rate)</li>
+        <li>Выявлено <strong>37 моделей устройств</strong> с деградацией FPS, требующих отката Vulkan (<30% improvement rate)</li>
+        <li>Классифицировано <strong>10 семейств GPU</strong> для включения Vulkan и <strong>12 для исключения</strong></li>
+        <li>Применена <strong>строгая статистическая методология</strong> с парными t-тестами и проверкой значимости для валидации результатов</li>
+        <li>Разработаны <strong>комплексные аналитические визуализации</strong>: графики распределений, box plots, scatter-матрицы и сегментированные диаграммы производительности</li>
+      </ul>
+      <strong>Технологии:</strong> Python, Pandas, NumPy, SciPy (t-тесты), Matplotlib, Seaborn, Статистический анализ
+    </td>
+    <td>
+      <a href="/common/vulkan_fps_analysis/">Код</a>
+      <br>
+      <a href="/ru/2.%20Анализ%20влияния%20Vulkan%20на%20FPS.md">Детали</a>
     </td>
   </tr>
   <tr>
