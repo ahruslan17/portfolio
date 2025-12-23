@@ -140,6 +140,17 @@ All work presented here:
     </td>
   </tr>
   <tr>
+    <td><strong>Video2Text: Local Whisper Transcription App</strong><br><em>(Pet Project)</em></td>
+    <td>
+      Local-first Streamlit web application for offline transcription of audio and video files using Whisper models from Hugging Face. Automatically extracts and normalizes audio via FFmpeg, supports batch processing, and leverages GPU acceleration when available. Includes Russian-optimized and multilingual Whisper Large V3 models with on-disk caching to avoid repeat downloads.
+      <br><br>
+      <strong>Tech:</strong> Python, Streamlit, PyTorch, Transformers, Whisper, FFmpeg
+    </td>
+    <td>
+      <a href="https://github.com/ahruslan17/video2text-ffmpeg-whisper">Repository</a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>CV Parking Monitoring</strong><br><em>(Pet Project)</em></td>
     <td>
       End-to-end computer vision system for parking lot analytics. Features interactive zone labeling, YOLO-based vehicle detection, real-time availability calculation, and Telegram bot integration for on-demand monitoring.
@@ -287,6 +298,17 @@ Interested in collaboration or have questions? Feel free to reach out:
     </td>
     <td>
       <a href="https://github.com/ahruslan17/russian_wordle_assistant">Репозиторий</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Video2Text: локальное приложение для транскрибации</strong><br><em>(Pet-проект)</em></td>
+    <td>
+      Локальное Streamlit-приложение для офлайн-транскрибации аудио- и видеофайлов с использованием моделей Whisper из Hugging Face. Автоматически извлекает и нормализует аудио через FFmpeg, поддерживает пакетную обработку и использует ускорение на GPU при наличии. Включает русскоязычную и мультиязычную версии Whisper Large V3 с кэшированием моделей на диске для повторного использования.
+      <br><br>
+      <strong>Технологии:</strong> Python, Streamlit, PyTorch, Transformers, Whisper, FFmpeg
+    </td>
+    <td>
+      <a href="https://github.com/ahruslan17/video2text-ffmpeg-whisper">Репозиторий</a>
     </td>
   </tr>
   <tr>
